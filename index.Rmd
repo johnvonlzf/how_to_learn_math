@@ -1,9 +1,8 @@
 --- 
-title: "title"
-author: "author"
+title: "数学家谈怎样学数学"
+author: "华罗庚等著"
 site: bookdown::bookdown_site
 date: "`r Sys.Date()`"
-description: "This is a selection of a papa's diary originally posted on my blog. A family's stories of two children are told. This book is being updated."
 
 output:
   bookdown::pdf_book:
@@ -23,7 +22,6 @@ bibliography: bib/bib.bib
 colorlinks: no
 lot: yes
 lof: yes
-# geometry: [a4paper, tmargin=2.5cm, bmargin=2.5cm, lmargin=3.5cm, rmargin=2.5cm]
 ---
 
 \mainmatter

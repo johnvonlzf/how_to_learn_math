@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.12.24)  25 DEC 2019 22:26
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.12.24)  25 DEC 2019 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**nte_zh.tex
-(./nte_zh.tex
+**index.tex
+(./index.tex
 LaTeX2e <2019-10-01> patch level 3
 
 (c:/Users/shooter/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ctex/ctexbook.cl
@@ -909,9 +909,9 @@ Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
 \mc@col@check@num=\count301
 )
 \@indexfile=\write3
-\openout3 = `nte_zh.idx'.
+\openout3 = `index.idx'.
 
-Writing index file nte_zh.idx
+Writing index file index.idx
 
 (c:/Users/shooter/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titleps
 .sty
@@ -955,8 +955,8 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 LaTeX Warning: Unused global option(s):
     [headings=optiontohead].
 
-(./nte_zh.aux)
-\openout1 = `nte_zh.aux'.
+(./index.aux)
+\openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
@@ -1069,9 +1069,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 109.
 LaTeX Info: Redefining \pageref on input line 109.
 LaTeX Info: Redefining \nameref on input line 109.
-(./nte_zh.out) (./nte_zh.out)
+(./index.out) (./index.out)
 \@outlinefile=\write4
-\openout4 = `nte_zh.out'.
+\openout4 = `index.out'.
 
 
 (c:/Users/shooter/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflsc
@@ -1125,9 +1125,9 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Font Warning: Font shape `TU/fzfsjt.ttf(1)/bx/n' undefined
 (Font)              using `TU/fzfsjt.ttf(1)/m/n' instead on input line 119.
 
-(./nte_zh.toc)
+(./index.toc)
 \tf@toc=\write5
-\openout5 = `nte_zh.toc'.
+\openout5 = `index.toc'.
 
 [1
 
@@ -1135,44 +1135,31 @@ LaTeX Font Warning: Font shape `TU/fzfsjt.ttf(1)/bx/n' undefined
 
 ] [2
 
-] [1
-
-
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[2] [3] [4
-
-]
-Missing character: There is no  in font [fonts/fzfsjt.ttf]/OT:mapping=tex-text
-;!
-[5] [6
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
-(./nte_zh.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
-Package rerunfilecheck Info: File `nte_zh.out' has not changed.
-(rerunfilecheck)             Checksum: 77B20EB0F2736D9769475CD3A650AC8F;198.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+(./index.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `index.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 186 ({)
+### simple group (level 2) entered at line 135 ({)
 ### simple group (level 1) entered at line 117 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27438 strings out of 494458
- 562897 string characters out of 6171911
- 648479 words of memory out of 5000000
- 31512 multiletter control sequences out of 15000+600000
- 533044 words of font info for 56 fonts, out of 8000000 for 9000
+ 27340 strings out of 494458
+ 556339 string characters out of 6171911
+ 632409 words of memory out of 5000000
+ 31416 multiletter control sequences out of 15000+600000
+ 533036 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 58i,7n,70p,786b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,7n,70p,526b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nte_zh.pdf (8 pages).
+Output written on index.pdf (2 pages).
