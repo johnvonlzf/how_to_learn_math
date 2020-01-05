@@ -11,7 +11,7 @@ output:
     latex_engine: xelatex
     template: tex/template_nte_zh.tex
     pandoc_args:  --top-level-division=chapter
-    toc_depth: 3
+    toc_depth: 1
     toc_unnumbered: yes
     toc_appendix: yes
     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
